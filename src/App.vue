@@ -38,7 +38,7 @@
           </div>
           
           <div class="mt-12 flex flex-wrap gap-4">
-            <a href="/src/assets/amin-cv.pdf" download="amin-cv.pdf"
+            <a href="/amin-cv.pdf" download="amin-cv.pdf"
               class="bg-white text-black px-8 py-4 rounded-2xl font-bold hover:bg-blue-500 hover:text-white transition-all duration-500 active:scale-95 shadow-xl flex items-center gap-2 text-sm">
               <span>Download CV</span>
               <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
