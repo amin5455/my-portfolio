@@ -172,9 +172,18 @@
       </div>
       
       <h4 class="text-xl font-bold text-white mb-3 tracking-tight">Nestly.site</h4>
-      <p class="text-slate-500 text-sm leading-relaxed">
+      <p class="text-slate-500 text-sm leading-relaxed mb-6">
         Building a hybrid <span class="text-blue-400">Real Estate SaaS</span> platform. Integrating WordPress backend with a decoupled <span class="text-indigo-400">Vue.js</span> frontend.
       </p>
+
+      <!-- View Live Link -->
+      <a href="https://nestly.site" target="_blank" class="inline-flex items-center gap-2 text-xs font-bold text-orange-400 hover:text-orange-300 transition-colors group/link">
+        View Live Project 
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 transform group-hover/link:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="Stack 13 10V11m0 4v1m4-11h-4m-6 0a1 1 0 00-1 1v3M4 7v10a2 2 0 002 2h12a2 2 0 002-2V7M4 7h16" />
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+        </svg>
+      </a>
     </div>
 
     <div class="mt-8">
@@ -194,7 +203,6 @@
   <!-- Decorative background element -->
   <div class="absolute -right-4 -top-4 w-24 h-24 bg-orange-500/5 blur-2xl rounded-full group-hover:bg-orange-500/10 transition-all"></div>
 </div>
-
 
 
 
