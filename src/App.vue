@@ -71,21 +71,34 @@
           <div class="group bg-slate-800 border border-slate-700 rounded-3xl p-8 md:p-10 hover:border-cyan-500 transition-all duration-500">
             <div class="flex justify-between items-start mb-8">
               <div class="flex gap-2">
-                <span class="px-3 py-1 bg-cyan-500/10 text-cyan-400 text-[9px] font-black rounded border border-cyan-500/20 uppercase">WordPress</span>
-                <span class="px-3 py-1 bg-white/5 text-slate-500 text-[9px] font-black rounded border border-white/10 uppercase">Vue.js</span>
+                <span class="px-3 py-1 bg-cyan-500/10 text-cyan-400 text-[9px] font-black rounded border border-cyan-500/20 uppercase">Divi Builder</span>
+                <span class="px-3 py-1 bg-white/5 text-slate-400 text-[9px] font-black rounded border border-white/10 uppercase">Rank Math SEO</span>
               </div>
-              <span class="text-3xl opacity-20 group-hover:opacity-100 transition">🚀</span>
+              <span class="text-3xl opacity-20 group-hover:opacity-100 transition">🌐</span>
             </div>
-            <h5 class="text-2xl md:text-3xl font-black text-white mb-4">Nestly.site</h5>
-            <p class="text-slate-400 mb-8 leading-relaxed text-sm md:text-base">Custom WordPress experience with ACF and a dedicated Vue.js dashboard for real estate management.</p>
-            <a href="https://nestly.site" target="_blank" class="text-cyan-400 font-bold flex items-center gap-2 group-hover:gap-4 transition-all uppercase text-[10px] tracking-widest">Visit Project ↗</a>
+            <h5 class="text-2xl md:text-3xl font-black text-white mb-4">Nexgn Infrastructure Technology</h5>
+            <p class="text-slate-400 mb-8 leading-relaxed text-sm md:text-base">Customized website layouts using Divi Theme Builder, custom CSS, and executed Technical SEO via Rank Math.</p>
+            <a href="https://nexgntech.com" target="_blank" class="text-cyan-400 font-bold flex items-center gap-2 group-hover:gap-4 transition-all uppercase text-[10px] tracking-widest">Visit Site ↗</a>
+          </div>
+
+          <div class="group bg-slate-800 border border-slate-700 rounded-3xl p-8 md:p-10 hover:border-emerald-500 transition-all duration-500">
+            <div class="flex justify-between items-start mb-8">
+              <div class="flex gap-2">
+                <span class="px-3 py-1 bg-emerald-500/10 text-emerald-400 text-[9px] font-black rounded border border-emerald-500/20 uppercase">WordPress</span>
+                <span class="px-3 py-1 bg-white/5 text-slate-400 text-[9px] font-black rounded border border-white/10 uppercase">HTML/CSS Conversion</span>
+              </div>
+              <span class="text-3xl opacity-20 group-hover:opacity-100 transition">📖</span>
+            </div>
+            <h5 class="text-2xl md:text-3xl font-black text-white mb-4">The Quran Path</h5>
+            <p class="text-slate-400 mb-8 leading-relaxed text-sm md:text-base">Converted static HTML/CSS template into dynamic WordPress header, footer, and dynamic header menu structures.</p>
+            <a href="https://thequranpath.site" target="_blank" class="text-emerald-400 font-bold flex items-center gap-2 group-hover:gap-4 transition-all uppercase text-[10px] tracking-widest">Visit Site ↗</a>
           </div>
 
           <div class="group bg-slate-800 border border-slate-700 rounded-3xl p-8 md:p-10 hover:border-orange-500 transition-all duration-500">
             <div class="flex justify-between items-start mb-8">
               <div class="flex gap-2">
                 <span class="px-3 py-1 bg-orange-500/10 text-orange-400 text-[9px] font-black rounded border border-orange-500/20 uppercase">WordPress</span>
-                <span class="px-3 py-1 bg-white/5 text-slate-500 text-[9px] font-black rounded border border-white/10 uppercase">Medical</span>
+                <span class="px-3 py-1 bg-white/5 text-slate-400 text-[9px] font-black rounded border border-white/10 uppercase">Medical</span>
               </div>
               <span class="text-3xl opacity-20 group-hover:opacity-100 transition">🏥</span>
             </div>
@@ -94,24 +107,11 @@
             <a href="http://docportal.42web.io/" target="_blank" class="text-orange-400 font-bold flex items-center gap-2 group-hover:gap-4 transition-all uppercase text-[10px] tracking-widest">Live Site ↗</a>
           </div>
 
-          <div class="group bg-slate-800 border border-slate-700 rounded-3xl p-8 md:p-10 hover:border-blue-500 transition-all duration-500">
-            <div class="flex justify-between items-start mb-8">
-              <div class="flex gap-2">
-                <span class="px-3 py-1 bg-blue-500/10 text-blue-400 text-[9px] font-black rounded border border-blue-500/20 uppercase">Laravel</span>
-                <span class="px-3 py-1 bg-white/5 text-slate-500 text-[9px] font-black rounded border border-white/10 uppercase">SaaS</span>
-              </div>
-              <span class="text-3xl opacity-20 group-hover:opacity-100 transition">🏫</span>
-            </div>
-            <h5 class="text-2xl md:text-3xl font-black text-white mb-4">LMS</h5>
-            <p class="text-slate-400 mb-8 leading-relaxed text-sm md:text-base">Comprehensive multi-school platform for stylist education and attendance management.</p>
-            <a href="https://multischoolsystem.com/" target="_blank" class="text-blue-400 font-bold flex items-center gap-2 group-hover:gap-4 transition-all uppercase text-[10px] tracking-widest">Live Demo ↗</a>
-          </div>
-
           <div class="group bg-slate-800 border border-slate-700 rounded-3xl p-8 md:p-10 hover:border-purple-500 transition-all duration-500">
             <div class="flex justify-between items-start mb-8">
               <div class="flex gap-2">
                 <span class="px-3 py-1 bg-purple-500/10 text-purple-400 text-[9px] font-black rounded border border-purple-500/20 uppercase">Gemini AI</span>
-                <span class="px-3 py-1 bg-white/5 text-slate-500 text-[9px] font-black rounded border border-white/10 uppercase">RAG</span>
+                <span class="px-3 py-1 bg-white/5 text-slate-400 text-[9px] font-black rounded border border-white/10 uppercase">RAG</span>
               </div>
               <span class="text-3xl opacity-20 group-hover:opacity-100 transition">🤖</span>
             </div>
